@@ -4,8 +4,8 @@ public class ArithmaticOperator                       // class name
  public static void main(String[]args){              //main function start
   float add,sub,mul,div,modulus;
   Scanner sc=new Scanner(System.in);                 //Scanning Syntax     **Scanner sc=new Scanner(System.in);**
-  System.out.print("Enter value for X= ");
-  float x=sc.nextFloat();
+  System.out.print("Enter value for X= ");           // for printing print function
+  float x=sc.nextFloat();                            // if we use println it will print at next line 
   System.out.print("Enter value for y= ");
   float y=sc.nextFloat();
 add=x+y;
