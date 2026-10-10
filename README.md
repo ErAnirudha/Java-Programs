@@ -4,7 +4,7 @@
 [print Hello World Program](https://github.com/ErAnirudha/Java-Programs/blob/main/main.java)
 
  **1.Operators**
-   -  [Arithmatic operator(+ ,- , * , / , %)]
+   -  [Arithmatic operator(+ ,- , * , / , %)] https://github.com/ErAnirudha/Java-Programs/blob/main/ArithmaticOperator.java
    -  [Relational operator(<, >, <=, >=, ==)]
    -  [Logical operator(&&(.) , || (+) , !)]
    -  [Unary operator(--x , ++x (prefix), x-- , x++ (postfix))]
