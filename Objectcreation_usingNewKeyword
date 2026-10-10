@@ -15,7 +15,9 @@ public class Objectcreation_usingNewKeyword {
 
 	}
 }
-```
+
+
+```text
 "//Student — class name."
 "//obj — reference variable."
 "//new — creates a new object."
