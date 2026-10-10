@@ -1,0 +1,18 @@
+package opps.object;
+
+public class Objectcreation_usingNewKeyword {
+
+	void Displasy() {
+		String std_name = "Anirudha";
+		System.out.println("student name is:" + std_name);
+	}
+
+
+	public static void main(String[] args) {
+		// By using new keyword
+		Objectcreation_usingNewKeyword obj=new Objectcreation_usingNewKeyword();
+		obj.Displasy();
+
+	}
+}
+
