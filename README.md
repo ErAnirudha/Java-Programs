@@ -26,7 +26,7 @@
 
 **5.Strings**
 - [String Compare by using inbuilt method](https://github.com/ErAnirudha/Java-Programs/blob/main/Compare2StringsUsingInbuilt_method.java)
-- [String compare By using For loop iteration]
+- [String compare By using For loop iteration](https://github.com/ErAnirudha/Java-Programs/blob/main/StringCompare.java)
 - [Identify palindrome or Not]
 - [Reverse String]
 - [Different operations on String-inbuilt method]
