@@ -25,6 +25,11 @@
    - (Loop with Break / continue)
 
 **5.Strings**
+- [String Compare by using inbuilt method]
+- [String compare By using For loop iteration]
+- [Identify palindrome or Not]
+- [Reverse String]
+- [Different operations on String-inbuilt method]
 
 **6.Opps**
   -[Object creation](https://github.com/ErAnirudha/Java-Programs/blob/main/Objectcreation_usingNewKeyword)
