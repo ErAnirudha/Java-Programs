@@ -19,9 +19,13 @@
 **3.Control Structures**
    - (if , if-else, Nested if, Nested if-else)
    - (else if ladder)
+   - [Switch statement]
    
 **4.Loops**
    - (For Loop, while Loop, Do while)
+     - [For loop]
+     - [while loop]
+     - [Do while loop]
    - (Loop with Break / continue)
 
 **5.Strings**
