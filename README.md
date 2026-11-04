@@ -44,34 +44,34 @@
 
   
    **6.2 Different ways value Assign to variable**
-     - [By using Reference variable/ object reference variable]
-     - [By using method]
-     - [By using Constructor]
+      - [By using Reference variable/ object reference variable]
+      - [By using method]
+      - [By using Constructor]
      
    **6.3 Java methods**
-     - [Not taking parameters ,Not returns Output]
-     - [Not taking parameters , Returns Output]
-     - [Taking parameters , Not returns Output]
-     - [Taking parameters ,Returns Output]
+      - [Not taking parameters ,Not returns Output]
+      - [Not taking parameters , Returns Output]
+      - [Taking parameters , Not returns Output]
+      - [Taking parameters ,Returns Output]
      
    **6.4 Java Constructor**
-     - [parameterized constructor]
-   - [Method Overloading] 
+      - [parameterized constructor]
+  **6.5[Method Overloading]**
    - [This keyword]
    - [call by value]
    - [call by Reference]
    - [static keyword]
-   - [Java inheritance]
-     - [SLI-single Level Inheritance]
-     - [MLI-Multi Level Inheritance]
-     - [Hierarchical Inheritance]
-     - [Multiple inheritance]
-     - [Hybrid Inheritance]
+     
+    **[Java inheritance]**
+        - [SLI-single Level Inheritance]
+        - [MLI-Multi Level Inheritance]
+        - [Hierarchical Inheritance]
+        - [Multiple inheritance]
+        - [Hybrid Inheritance]
         [super keyword]
         [Final keyword]
       
-      
-   - [Interface]    
+      **[Interface]**
 
 **7.Exception Handling**
 
