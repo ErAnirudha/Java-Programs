@@ -55,7 +55,7 @@
    - [Taking parameters ,Returns Output]
      
    **6.4 Java Constructor**
-      - [parameterized constructor]
+   - [parameterized constructor]
   **6.5[Method Overloading]**
    - [This keyword]
    - [call by value]
@@ -63,18 +63,17 @@
    - [static keyword]
      
    **[Java inheritance]**
-   
-      - [SLI-single Level Inheritance]
-      - [MLI-Multi Level Inheritance]
-      - [Hierarchical Inheritance]
-      - [Multiple inheritance]
-      - [Hybrid Inheritance]
-        [super keyword]
-        [Final keyword]
+   - [SLI-single Level Inheritance]
+   - [MLI-Multi Level Inheritance]
+   - [Hierarchical Inheritance]
+   - [Multiple inheritance]
+   - [Hybrid Inheritance]
+       - [super keyword]
+       - [Final keyword]
       
-      **[Interface]**
+   **[Interface]**
 
-**7.Exception Handling**
+   **7.Exception Handling**
 
 
   
