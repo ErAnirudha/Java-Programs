@@ -42,7 +42,7 @@
 --------------------------------------------------------------------------------------------------------------------------------------
    **6.1 class & Object**
 -[Object creation]
-   -[Object](https://github.com/ErAnirudha/Java-Programs/blob/main/Objectcreation_usingNewKeyword)
+   -[Object](https://github.com/ErAnirudha/Java-Programs/blob/main/Objectcreation_usingNewKeyword.java)
 
   
    **6.2 Different ways value Assign to variable**
