@@ -44,12 +44,27 @@
      - [By using Constructor]
    - [Java methods]
      - [Not taking parameters ,Not returns Output]
-     - [Not taking parameters , returns Output]
-     - [taking parameters , Not returns Output]
-     - [taking parameters ,returns Output]
+     - [Not taking parameters , Returns Output]
+     - [Taking parameters , Not returns Output]
+     - [Taking parameters ,Returns Output]
    - [Java Constructor]
      - [parameterized constructor]
    - [Method Overloading]
+   - [This keyword]
+   - [call by value]
+   - [call by Reference]
+   - [static keyword]
+   - [Java inheritance]
+     - [SLI-single Level Inheritance]
+     - [MLI-Multi Level Inheritance]
+     - [Hierarchical Inheritance]
+     - [Multiple inheritance]
+     - [Hybrid Inheritance]
+        [super keyword]
+        [Final keyword]
+      
+      
+   - [Interface]    
 
 **7.Exception Handling**
 
