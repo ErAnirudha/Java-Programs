@@ -41,8 +41,8 @@
 - [Reverse String](https://github.com/ErAnirudha/Java-Programs/blob/main/ReverseString.java)
 - [Different operations on String-inbuilt method]
 --------------------------------------------------------------------------------------------------------------------------------------
-                                            ||**6.Opps concepts**||
---------------------------------------------------------------------------------------------------------------------------------------
+<h3 align="center">6.Opps concepts</h3>        
+
    **6.1 class & Object**
 -[Object creation]
    -[Object](https://github.com/ErAnirudha/Java-Programs/blob/main/Objectcreation_usingNewKeyword.java)
@@ -80,9 +80,9 @@
    **Interface**
    **Collections**
 
---------------------------------------------------------------------------------------------------------------------------------------
-                                    ||**7.Exception Handling & File Handling in java**||
---------------------------------------------------------------------------------------------------------------------------------------
+
+   <h3 align="center">7.Exception Handling & File Handling in java</h3>               
+
    **7.Exception Handling**
    - [Handling Unchecked Exceptions Using Try-Catch Block]
    - [Multiple Catch Blocks]
