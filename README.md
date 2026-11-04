@@ -17,8 +17,8 @@
    - Data Types(int , char , float , double , String , Boolean,)
   
 **3.Control Structures**
-   - [if]
-   - [if-else]
+   - [if](https://github.com/ErAnirudha/Java-Programs/blob/main/if_statement.java)
+   - [if-else](https://github.com/ErAnirudha/Java-Programs/blob/main/if_else.java)
    - [Nested if]
    - [Nested if-else]
    - [else if ladder]
