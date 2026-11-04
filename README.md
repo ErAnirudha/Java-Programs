@@ -26,7 +26,7 @@
    
 **4.Loops**
    - (For Loop, while Loop, Do while)
-     - [For loop]
+     - [For loop](https://github.com/ErAnirudha/Java-Programs/blob/main/ForLoopEx1.java)
      - [while loop]
      - [Do while loop]
    - (Loop with Break / continue)
