@@ -1,3 +1,20 @@
+<h1 align="center">Hi 👋, I'm Anirudha</h1>
+<h3 align="center">A passionate (QA) Tester from India</h3>
+
+- 🔭 I’m currently working on **Core Java Basics+ Advanced**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/anirudha-abu" target="blank"><img align="center" alt="www.linkedin.com/in/anirudha-abu" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+
+
+
+
+
 # **Core Java-Programs**
 > ##  Core java programs and Discription
 **|Basic program Structure of JAVA |**
