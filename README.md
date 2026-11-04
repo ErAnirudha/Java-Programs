@@ -35,8 +35,14 @@
 - [Reverse String](https://github.com/ErAnirudha/Java-Programs/blob/main/ReverseString.java)
 - [Different operations on String-inbuilt method]
 
-**6.Opps**
+***6.Opps***
+-[class & Object]
   -[Object creation](https://github.com/ErAnirudha/Java-Programs/blob/main/Objectcreation_usingNewKeyword)
+  -[Different ways value Assign to variable]
+     -[By using Reference variable/ object reference variable]
+     -[By using method]
+     -[By using Constructor]
+  **
 
 **7.Exception Handling**
 
