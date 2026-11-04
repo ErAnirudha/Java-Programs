@@ -17,7 +17,10 @@
    - Data Types(int , char , float , double , String , Boolean,)
   
 **3.Control Structures**
-   - [if , if-else, Nested if, Nested if-else]
+   - [if]
+   - [if-else]
+   - [Nested if]
+   - [Nested if-else]
    - [else if ladder]
    - [Switch statement]
    
@@ -38,8 +41,9 @@
 ***6.Opps***
 -[class & Object]
   -[Object creation](https://github.com/ErAnirudha/Java-Programs/blob/main/Objectcreation_usingNewKeyword)
+
   
-  - [Different ways value Assign to variable]
+   **6.1 Different ways value Assign to variable**
      - [By using Reference variable/ object reference variable]
      - [By using method]
      - [By using Constructor]
