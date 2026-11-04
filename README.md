@@ -44,9 +44,9 @@
 
   
    **6.2 Different ways value Assign to variable**
-      - [By using Reference variable/ object reference variable]
-      - [By using method]
-      - [By using Constructor]
+   - [By using Reference variable/ object reference variable]
+   - [By using method]
+   - [By using Constructor]
      
    **6.3 Java methods**
       - [Not taking parameters ,Not returns Output]
