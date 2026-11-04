@@ -83,8 +83,15 @@
    **7.Exception Handling**
    
    **7.1 File Handling**
-   - [Reading File]
-   - [Writing file]
+   - [Java Folder Methods]
+      - [ Folder Creation (mkdir()) ]
+      - [Check Folder Existence (exists()) ]
+      - [Folder Renaming (renameTo())]
+      - [ Folder Deletion (delete())]
+   - [Java File Methods]
+      - [File Creation (createNewFile())]
+      
+      
 
 
   
