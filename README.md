@@ -49,10 +49,10 @@
    - [By using Constructor]
      
    **6.3 Java methods**
-      - [Not taking parameters ,Not returns Output]
-      - [Not taking parameters , Returns Output]
-      - [Taking parameters , Not returns Output]
-      - [Taking parameters ,Returns Output]
+   - [Not taking parameters ,Not returns Output]
+   - [Not taking parameters , Returns Output]
+   - [Taking parameters , Not returns Output]
+   - [Taking parameters ,Returns Output]
      
    **6.4 Java Constructor**
       - [parameterized constructor]
