@@ -46,7 +46,7 @@
 
   
    **6.2 Different ways value Assign to variable**
-   - [By using Reference variable/ object reference variable]
+   - [By using Reference variable/ object reference variable](https://github.com/ErAnirudha/Java-Programs/blob/main/StudentMain.java)
    - [By using method]
    - [By using Constructor]
      
