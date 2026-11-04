@@ -63,6 +63,7 @@
    - [static keyword]
      
    **[Java inheritance]**
+   
       - [SLI-single Level Inheritance]
       - [MLI-Multi Level Inheritance]
       - [Hierarchical Inheritance]
