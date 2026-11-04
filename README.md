@@ -78,12 +78,13 @@
    **Collections**
 
 --------------------------------------------------------------------------------------------------------------------------------------
-                                            ||**.Exception Handling & File Handling in java**||
+                                            ||**7.Exception Handling & File Handling in java**||
 --------------------------------------------------------------------------------------------------------------------------------------
    **7.Exception Handling**
-   **File Handling**
-     - [Reading File]
-     -[Writting file]
+   
+   **7.1 File Handling**
+   - [Reading File]
+   - [Writing file]
 
 
   
