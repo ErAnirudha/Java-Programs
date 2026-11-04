@@ -38,23 +38,25 @@
 - [Reverse String](https://github.com/ErAnirudha/Java-Programs/blob/main/ReverseString.java)
 - [Different operations on String-inbuilt method]
 --------------------------------------------------------------------------------------------------------------------------------------
-***6.Opps***
--[class & Object]
+                                             ***6.Opps concepts***
+-**6.1class & Object**
   -[Object creation](https://github.com/ErAnirudha/Java-Programs/blob/main/Objectcreation_usingNewKeyword)
 
   
-   **7. Different ways value Assign to variable**
+   **6.2 Different ways value Assign to variable**
      - [By using Reference variable/ object reference variable]
      - [By using method]
      - [By using Constructor]
-   - [Java methods]
+     
+   **6.3 Java methods**
      - [Not taking parameters ,Not returns Output]
      - [Not taking parameters , Returns Output]
      - [Taking parameters , Not returns Output]
      - [Taking parameters ,Returns Output]
-   - [Java Constructor]
+     
+   **6.4 Java Constructor**
      - [parameterized constructor]
-   - [Method Overloading]
+   - [Method Overloading] 
    - [This keyword]
    - [call by value]
    - [call by Reference]
