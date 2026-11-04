@@ -62,12 +62,12 @@
    - [call by Reference]
    - [static keyword]
      
-    **[Java inheritance]**
-        - [SLI-single Level Inheritance]
-        - [MLI-Multi Level Inheritance]
-        - [Hierarchical Inheritance]
-        - [Multiple inheritance]
-        - [Hybrid Inheritance]
+   **[Java inheritance]**
+      - [SLI-single Level Inheritance]
+      - [MLI-Multi Level Inheritance]
+      - [Hierarchical Inheritance]
+      - [Multiple inheritance]
+      - [Hybrid Inheritance]
         [super keyword]
         [Final keyword]
       
