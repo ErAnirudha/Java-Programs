@@ -81,6 +81,11 @@
                                             ||**7.Exception Handling & File Handling in java**||
 --------------------------------------------------------------------------------------------------------------------------------------
    **7.Exception Handling**
+    - [Handling Unchecked Exceptions Using Try-Catch Block]
+    - [Multiple Catch Blocks]
+    - [Finally Block]
+    - [Handling Checked Exceptions Using Try-Catch and Throws]
+   
    
    **7.1 File Handling**
    - [Java Folder Methods]
