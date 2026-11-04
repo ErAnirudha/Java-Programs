@@ -37,13 +37,13 @@
 - [Identify palindrome or Not]
 - [Reverse String](https://github.com/ErAnirudha/Java-Programs/blob/main/ReverseString.java)
 - [Different operations on String-inbuilt method]
-
+--------------------------------------------------------------------------------------------------------------------------------------
 ***6.Opps***
 -[class & Object]
   -[Object creation](https://github.com/ErAnirudha/Java-Programs/blob/main/Objectcreation_usingNewKeyword)
 
   
-   **6.1 Different ways value Assign to variable**
+   **7. Different ways value Assign to variable**
      - [By using Reference variable/ object reference variable]
      - [By using method]
      - [By using Constructor]
