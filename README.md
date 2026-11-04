@@ -78,7 +78,7 @@
    **Collections**
 
 --------------------------------------------------------------------------------------------------------------------------------------
-                                            ||**7.Exception Handling & File Handling in java**||
+                                    ||**7.Exception Handling & File Handling in java**||
 --------------------------------------------------------------------------------------------------------------------------------------
    **7.Exception Handling**
    - [Handling Unchecked Exceptions Using Try-Catch Block]
